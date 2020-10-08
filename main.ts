@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    for (let list of ["AKANE"]) {
+    for (let list of ["Akane", "Rakkhun", "Kunsue", "Khongkwan"]) {
         basic.showString("" + (list))
         basic.pause(1000)
     }
